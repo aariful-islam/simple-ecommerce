@@ -1,0 +1,9 @@
+.rev{
+
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.prod{
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+}

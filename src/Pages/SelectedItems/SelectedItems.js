@@ -22,6 +22,7 @@ const SelectedItems = ({cart}) => {
            <h5>Tax: ${tax}</h5>
            
            <h4 className='mt-5'>Grand Total: ${grandTotal}</h4>
+           
 
             
         </div>
